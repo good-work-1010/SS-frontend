@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "feat/early-repayment-notice",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "feat/early-repayment-notice": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "feat/early-repayment-notice",
+    "origin"
+  ]
+}
